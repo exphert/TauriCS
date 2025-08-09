@@ -4,10 +4,10 @@ This project is a powerful template for building cross-platform desktop applicat
 
 This provides the safety and security of Rust, the UI flexibility of web technologies, and the full power of the .NET ecosystem for your business logic, all with native performance.
 
-![screenshot](/.img/1.png)
-![screenshot](/.img/2.png)
-![screenshot](/.img/3.png)
-![screenshot](/.img/4.png)
+<img src="/.img/1.png" width="100" height="100">
+<img src="/.img/2.png" width="100" height="100">
+<img src="/.img/3.png" width="100" height="100">
+<img src="/.img/4.png" width="100" height="100">
 
 ## Architecture Overview
 
