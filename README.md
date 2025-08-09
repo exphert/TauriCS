@@ -23,7 +23,7 @@ The core of this template is a decoupled architecture that allows for a clean se
     1.  **Request-Response:** A standard synchronous call for quick tasks.
     2.  **Streaming:** For long-running tasks, the C# backend can stream progress updates back to the frontend in real-time using Tauri events.
     3.  **External Native Calls:** A C# library can dynamically load and call functions from *other* native DLLs (including non-C# ones), acting as a bridge to existing native code.
--   **Built-in Security:** Native libraries are automatically protected by a parent process check. This ensures they can only be loaded and executed by your main application (e.g., `taurics.exe`), preventing unauthorized use or hijacking of your DLLs.
+-   **Built-in Security:** Native libraries are automatically protected by a current process check. This ensures they can only be loaded and executed by your main application (e.g., `taurics.exe`), preventing unauthorized use or hijacking of your DLLs.
 -   **Automated Build Process:** A custom Rust build script (`build.rs`) automatically:
     -   Builds the shared `Globals` library.
     -   Finds all C# library projects in `src-csharp/Native/`.
@@ -103,6 +103,6 @@ To add new functionality, you can easily create a new C# native library.
 
 3.  Open the new `NativeEntry.cs` file. Here you can:
     -   Add your custom logic to the `Execute`, `ExecuteStreaming`, and `ExecuteExternal` methods.
-    -   Configure the list of allowed parent processes in the `ALLOWED_PARENT_PROCESSES` array at the top of the file.
+    -   Configure the list of allowed current processes in the `ALLOWED_PROCESSES` array at the top of the file.
 
 4.  Run `npm run tauri dev`. The build script will automatically find, compile, and include your new library in the application.
