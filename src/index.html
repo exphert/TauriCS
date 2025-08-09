@@ -1,0 +1,35 @@
+<!-- src/index.html -->
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tauri C#</title>
+    <!-- The main JavaScript file is loaded as a module and deferred to run after the DOM is parsed. -->
+    <script type="module" src="/main.js" defer></script>
+</head>
+
+<body>
+    <!-- Main container for the application UI. -->
+    <main class="container">
+        <h1>Welcome to TauriCS</h1>
+
+        <!-- A container for the action buttons. -->
+        <div class="button-group">
+            <!-- Button to trigger a standard request-response call to the C# backend. -->
+            <button id="regular-button">Call C# (Regular)</button>
+            <!-- Button to trigger a call that involves loading another external native library. -->
+            <button id="external-button">Call C# (External)</button>
+            <!-- Button to trigger a long-running task that streams progress back. -->
+            <button id="stream-button">Call C# (Stream)</button>
+        </div>
+
+        <!--
+            The <pre> tag is used to display the output.
+            It preserves whitespace and line breaks, which is ideal for formatting JSON responses.
+        -->
+        <pre id="result"></pre>
+    </main>
+</body>

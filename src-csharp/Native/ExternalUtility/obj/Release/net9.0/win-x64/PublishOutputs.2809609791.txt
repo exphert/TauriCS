@@ -1,0 +1,2 @@
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\bin\Release\net9.0\win-x64\publish\ExternalUtility.dll
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\bin\Release\net9.0\win-x64\publish\Globals.pdb

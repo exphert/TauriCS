@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6kEngLZq4Q=",
+  "success": true,
+  "projectFilePath": "G:\\Code\\jawascript\\TAURI\\TauriCS\\src-csharp\\Native\\ExternalUtility\\ExternalUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Exphert\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.7\\microsoft.dotnet.ilcompiler.9.0.7.nupkg.sha512",
+    "C:\\Users\\Exphert\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.7\\microsoft.net.illink.tasks.9.0.7.nupkg.sha512",
+    "C:\\Users\\Exphert\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.7.nupkg.sha512",
+    "C:\\Users\\Exphert\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.7\\microsoft.netcore.app.runtime.win-x64.9.0.7.nupkg.sha512",
+    "C:\\Users\\Exphert\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.7.nupkg.sha512",
+    "C:\\Users\\Exphert\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.7\\microsoft.aspnetcore.app.runtime.win-x64.9.0.7.nupkg.sha512",
+    "C:\\Users\\Exphert\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

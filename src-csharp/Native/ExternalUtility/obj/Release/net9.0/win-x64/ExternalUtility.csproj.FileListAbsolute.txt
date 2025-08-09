@@ -1,0 +1,15 @@
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\bin\Release\net9.0\win-x64\ExternalUtility.deps.json
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\bin\Release\net9.0\win-x64\ExternalUtility.dll
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\bin\Release\net9.0\win-x64\ExternalUtility.pdb
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\bin\Release\net9.0\win-x64\Globals.dll
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\bin\Release\net9.0\win-x64\Globals.pdb
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\ExternalUtility.csproj.AssemblyReference.cache
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\ExternalUtility.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\ExternalUtility.AssemblyInfoInputs.cache
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\ExternalUtility.AssemblyInfo.cs
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\ExternalUtility.csproj.CoreCompileInputs.cache
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\External.DCAB0937.Up2Date
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\ExternalUtility.dll
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\refint\ExternalUtility.dll
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\ExternalUtility.pdb
+G:\Code\jawascript\TAURI\TauriCS\src-csharp\Native\ExternalUtility\obj\Release\net9.0\win-x64\ref\ExternalUtility.dll

@@ -1,0 +1,13 @@
+{
+  "name": "taurics",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "cs:make": "node ./.scripts/make-native.mjs"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
