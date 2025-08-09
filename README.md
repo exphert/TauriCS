@@ -4,6 +4,11 @@ This project is a powerful template for building cross-platform desktop applicat
 
 This provides the safety and security of Rust, the UI flexibility of web technologies, and the full power of the .NET ecosystem for your business logic, all with native performance.
 
+![screenshot](/.img/1.png)
+![screenshot](/.img/2.png)
+![screenshot](/.img/3.png)
+![screenshot](/.img/4.png)
+
 ## Architecture Overview
 
 The core of this template is a decoupled architecture that allows for a clean separation of concerns and a highly extensible backend.
