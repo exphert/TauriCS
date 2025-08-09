@@ -73,8 +73,8 @@ The core of this template is a decoupled architecture that allows for a clean se
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/exphert/TauriCS.git
+    cd TauriCS
     ```
 
 2.  **Install frontend dependencies:**
