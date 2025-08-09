@@ -1,6 +1,6 @@
 # Tauri C# Native Library Template
 
-This project is a powerful template for building cross-platform desktop applications using [Tauri](https://tauri.app/) (v2) for the frontend and a high-performance C# backend. It showcases a robust architecture where the C# backend is compiled using **.NET Native AOT** and dynamically loaded by the Rust core as native libraries.
+This project is a powerful template for building cross-platform desktop applications using [Tauri](https://v2.tauri.app/) (v2) for the frontend and a high-performance C# backend. It showcases a robust architecture where the C# backend is compiled using **.NET Native AOT** and dynamically loaded by the Rust core as native libraries.
 
 This provides the safety and security of Rust, the UI flexibility of web technologies, and the full power of the .NET ecosystem for your business logic, all with native performance.
 
