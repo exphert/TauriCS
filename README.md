@@ -53,7 +53,7 @@ The core of this template is a decoupled architecture that allows for a clean se
 │   ├── build.rs          # The Rust build script that automates C# compilation.
 │   ├── natives/          # (Auto-generated) Final location for DLLs to be bundled.
 │   └── src/
-│       └── main.rs       # Rust core: loads libraries and handles commands.
+│       └── lib.rs       # Rust core: loads libraries and handles commands.
 ├── .scripts/
 │   └── make-native.mjs   # Scaffolding script for new C# libraries.
 ├── package.json
