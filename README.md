@@ -100,7 +100,7 @@ To add new functionality, you can easily create a new C# native library.
 
 1.  Run the scaffolding script from the root of the project:
     ```bash
-    npm run csharp:make MyNewLibrary
+    npm run cs:make MyNewLibrary
     ```
     (Replace `MyNewLibrary` with your desired name in PascalCase).
 
