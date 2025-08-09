@@ -74,7 +74,7 @@ try {
 
     // Step E: Create a .gitignore file to exclude build artifacts from source control.
     console.log('   Creating .gitignore file...');
-    const gitignoreContent = `# .NET Core build artifacts\nbin/\nobj/\n`;
+    const gitignoreContent = `# .NET Core build artifacts\nbin/\nobj/Debug\nobj/Release\n`;
     fs.writeFileSync(path.join(nativeDir, '.gitignore'), gitignoreContent);
 
     // Step F: Generate the C# source code from a template string.
