@@ -64,10 +64,8 @@ The core of this template is a decoupled architecture that allows for a clean se
 
 ### Prerequisites
 
--   **Node.js and npm/yarn/pnpm:** [Install Node.js](https://nodejs.org/)
--   **Rust Toolchain:** [Install Rust](https://www.rust-lang.org/tools/install)
+-   **All Tauri Prerequisites** [Prerequisites](https://v2.tauri.app/start/prerequisites/)
 -   **.NET SDK:** (Recommended: .NET 8 or newer for Native AOT) [Install .NET SDK](https://dotnet.microsoft.com/download)
--   **Tauri CLI:** Run `cargo install tauri-cli`
 
 ### Installation & Running
 
